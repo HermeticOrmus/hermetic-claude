@@ -52,9 +52,9 @@ Done.
 
 ---
 
-## Why Alchemy?
+## Why ALQVIMIA?
 
-Because software development IS alchemy.
+Because software development IS ALQVIMIA.
 
 - You take raw material (ideas, problems)
 - You transform it through stages
@@ -168,7 +168,7 @@ Use it freely. Just don't use it to harm people.
 
 ## One More Thing
 
-The name comes from Hermes Trismegistus - the legendary figure who gave humanity writing, alchemy, and astrology. The "thrice-great" teacher.
+The name comes from Hermes Trismegistus - the legendary figure who gave humanity writing, ALQVIMIA, and astrology. The "thrice-great" teacher.
 
 Claude is our modern Hermes. This repo is the instruction manual.
 
