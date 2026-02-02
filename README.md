@@ -54,15 +54,13 @@ Done.
 
 ## Why ALQVIMIA?
 
-Because software development IS ALQVIMIA.
+It's a naming convention. Nothing more.
 
 - You take raw material (ideas, problems)
 - You transform it through stages
 - You produce gold (working systems)
 
-The ancients knew this. We just forgot.
-
-**SOLVE ET COAGVLA** - Dissolve and Coagulate. Break down, then rebuild better. That's literally what we do every day.
+**SOLVE ET COAGVLA** - Dissolve and Coagulate. Break down, then rebuild better. That's what we do every day. The names just make it memorable.
 
 ---
 
@@ -165,16 +163,6 @@ MIT + Gold Hat Addendum
 Use it freely. Just don't use it to harm people.
 
 ---
-
-## One More Thing
-
-The name comes from Hermes Trismegistus - the legendary figure who gave humanity writing, ALQVIMIA, and astrology. The "thrice-great" teacher.
-
-Claude is our modern Hermes. This repo is the instruction manual.
-
-**"As above, so below."**
-
-What you build in code reflects what you believe. Build something worth believing in.
 
 ---
 
