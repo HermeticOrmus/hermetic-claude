@@ -1,0 +1,43 @@
+
+{
+  "timestamp": "2025-10-30T21:22:51.000Z",
+  "message": "Test alert: System operational",
+  "severity": "INFO",
+  "severityCode": 0,
+  "source": "test"
+}
+{
+  "timestamp": "2025-10-30T21:24:07.000Z",
+  "message": "Backup failed with exit code 1",
+  "severity": "CRITICAL",
+  "severityCode": 2,
+  "source": "backup"
+}
+{
+  "timestamp": "2025-10-30T21:24:27.000Z",
+  "message": "Backup completed successfully in 1s",
+  "severity": "INFO",
+  "severityCode": 0,
+  "source": "backup"
+}
+{
+  "timestamp": "2025-10-31T03:03:21.000Z",
+  "message": "Telegram alerts configured\\! You will now receive WARNING and CRITICAL alerts from your automation system.",
+  "severity": "INFO",
+  "severityCode": 0,
+  "source": "test"
+}
+{
+  "timestamp": "2025-10-31T03:03:38.000Z",
+  "message": "Telegram Configuration Test: This is a WARNING level alert to verify your Telegram integration is working\\!",
+  "severity": "WARNING",
+  "severityCode": 1,
+  "source": "test"
+}
+{
+  "timestamp": "2025-10-31T03:04:10.000Z",
+  "message": "🚨 CRITICAL test: This alert type will always reach you, even with throttling enabled. Your automation infrastructure is fully operational\\!",
+  "severity": "CRITICAL",
+  "severityCode": 2,
+  "source": "test"
+}

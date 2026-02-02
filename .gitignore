@@ -1,0 +1,131 @@
+# ═══════════════════════════════════════════════════════════════
+#                    HERMETIC CLAVDE .gitignore
+# ═══════════════════════════════════════════════════════════════
+
+# Secrets - NEVER commit these
+.env
+.env.*
+*.key
+*.pem
+*.p12
+credentials.*
+secrets.*
+**/secrets/
+*.secret
+token*
+*_token*
+
+# API Keys
+*.apikey
+api_key*
+apikey*
+
+# Personal data
+*.private
+*.personal
+personal/
+private/
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*~
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+*.code-workspace
+
+# Syncthing
+.stfolder/
+.stversions/
+*.sync-conflict-*
+.stignore
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.logs
+logs/
+temp/
+tmp/
+cache/
+*.cache
+
+# Build artifacts
+dist/
+build/
+out/
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+node_modules/
+
+# Backups
+*.backup
+*.bak
+*.old
+backups/
+
+# Local configuration (keep templates, ignore local)
+*.local
+*.local.*
+settings.local.*
+config.local.*
+
+# Large files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Media (usually too large)
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+
+# Specific to this project
+hermetic/logs/
+hermetic/state/*.json
+hermetic/analytics/data/
+claude/hooks/*.local
+
+# Test artifacts
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# ═══════════════════════════════════════════════════════════════
+# IMPORTANT: Review before committing!
+#
+# The Gold Hat Principle applies:
+# "Does including this file empower or expose?"
+#
+# When in doubt, exclude it.
+# ═══════════════════════════════════════════════════════════════

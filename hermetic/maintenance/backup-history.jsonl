@@ -1,0 +1,16 @@
+{
+  "status": "error",
+  "lastRun": "2025-10-30T21:24:07.000Z",
+  "message": "Backup failed: exit code 1",
+  "duration": "1s",
+  "backupFile": "",
+  "timestamp": "2025-10-30T21:24:07.000Z"
+}
+{
+  "status": "success",
+  "lastRun": "2025-10-30T21:24:27.000Z",
+  "message": "Backup completed successfully",
+  "duration": "1s",
+  "backupFile": "",
+  "timestamp": "2025-10-30T21:24:27.000Z"
+}
