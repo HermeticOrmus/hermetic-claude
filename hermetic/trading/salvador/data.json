@@ -1,0 +1,49 @@
+{
+  "investor": {
+    "name": "Salvador Calomino",
+    "whatsapp": "584141155920@c.us",
+    "phone_display": "+58 414-1155920"
+  },
+  "account": {
+    "current_value_usd": 476.04,
+    "ownership_pct": 3.8,
+    "last_updated": "2026-01-24"
+  },
+  "history": [
+    {"date": "2026-01-24", "value": 476.04, "event": "update", "note": "Gamified progress update sent via WhatsApp"},
+    {"date": "2025-11-08", "value": 442.97, "event": "update", "note": "Sent progress update via WhatsApp"},
+    {"date": "2025-10-21", "value": null, "event": "contribution", "amount": 100, "note": "Aporte adicional"}
+  ],
+  "portfolio": {
+    "_comment": "Internal tracking only - NOT shared with Salvador",
+    "total_usd": 16259.72,
+    "as_of": "2026-01-24",
+    "holdings": [
+      {"ticker": "SCHB", "shares": 200, "name": "Schwab US Broad Market ETF"},
+      {"ticker": "SCHF", "shares": 61, "name": "Schwab International Equity ETF"},
+      {"ticker": "QQQ", "shares": 3, "name": "Invesco QQQ Trust"},
+      {"ticker": "NVDA", "shares": 3, "name": "NVIDIA Corporation"},
+      {"ticker": "TSLA", "shares": 4, "name": "Tesla Inc"},
+      {"ticker": "FXF", "shares": 11, "name": "Swiss Franc ETF"},
+      {"ticker": "USO", "shares": 15, "name": "United States Oil Fund"},
+      {"ticker": "IAU", "shares": 15, "name": "iShares Gold Trust"},
+      {"ticker": "FXI", "shares": 10, "name": "iShares China Large-Cap ETF"},
+      {"ticker": "HFXI", "shares": 5, "name": "IQ 50% Hedged FTSE Intl ETF"},
+      {"ticker": "FEZ", "shares": 1, "name": "SPDR EURO STOXX 50 ETF"},
+      {"ticker": "CVX", "shares": 1, "name": "Chevron Corporation"},
+      {"ticker": "CPA", "shares": 3, "name": "Copa Holdings"},
+      {"ticker": "CASH", "amount_usd": 204}
+    ]
+  },
+  "education": {
+    "last_topic_index": 1,
+    "topics": [
+      {"topic": "ETFs", "url": "https://www.investopedia.com/terms/e/etf.asp"},
+      {"topic": "Diversificacion", "url": "https://www.investopedia.com/terms/d/diversification.asp"},
+      {"topic": "Dollar Cost Averaging", "url": "https://www.investopedia.com/terms/d/dollarcostaveraging.asp"},
+      {"topic": "Interes Compuesto", "url": "https://www.investopedia.com/terms/c/compoundinterest.asp"},
+      {"topic": "Riesgo vs Retorno", "url": "https://www.investopedia.com/terms/r/riskreturntradeoff.asp"},
+      {"topic": "Largo Plazo", "url": "https://www.investopedia.com/terms/l/longterminvestments.asp"}
+    ]
+  }
+}

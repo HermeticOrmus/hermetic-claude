@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "purpose": "Ormus's personal contact information for agent/automation use",
+    "created": "2025-11-10",
+    "last_updated": "2025-11-10",
+    "hermetic_principle": "Mentalism - Clear identity enables clear action"
+  },
+
+  "identity": {
+    "karmic_name": "Diego Gabriel Bodart Miro",
+    "sacred_title": "Ormus the Messenger of The Fire of The Heart",
+    "professional_expression": "Hermetic Ormus",
+    "preferred_name": "Ormus"
+  },
+
+  "contact": {
+    "whatsapp": {
+      "display_number": "+507 6981-5142",
+      "e164_format": "+50769815142",
+      "api_format": "50769815142@c.us",
+      "country_code": "507",
+      "country": "Panama",
+      "primary": true,
+      "notifications_enabled": true,
+      "auto_notify_on": [
+        "task_completion",
+        "significant_updates",
+        "errors_requiring_attention",
+        "daily_summary"
+      ]
+    }
+  },
+
+  "notification_preferences": {
+    "whatsapp": {
+      "enabled": true,
+      "timezone": "America/Panama",
+      "quiet_hours": {
+        "enabled": false,
+        "start": "22:00",
+        "end": "07:00"
+      },
+      "format": {
+        "style": "functional_direct",
+        "include_emoji": "minimal",
+        "include_summaries": true,
+        "include_next_steps": true
+      }
+    }
+  },
+
+  "automation_settings": {
+    "auto_whatsapp_on_completion": true,
+    "include_project_context": true,
+    "include_file_references": false,
+    "include_commit_hashes": true,
+    "max_message_length": 4096
+  }
+}
